@@ -1,0 +1,7 @@
+{
+	"name": "Aurora",
+	"desc_short": 'A minimalistic LS widget using a thin font.',
+	"changelog": "<strong>1.0</strong><br>+ Initial Release<br>",
+	"screenshot": "<div style='text-align:center;'><a href='#' target='_blank'><img width=95% src='./screenshots/aurora1.jpg'/></a></div>",
+	"open": true,
+}
