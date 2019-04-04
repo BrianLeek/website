@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://brianleek.me/</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/projects.html</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/videos.html</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.galaxys9lsclock</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.aurora</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.allerclock</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.cleanclockanddate</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalrecreate</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclock</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclockwithday</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/packagepage/index.html</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brianleek.me/repo/</loc>
+  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
