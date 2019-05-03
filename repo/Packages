@@ -7,9 +7,9 @@ Description: A minimalistic LS widget using a thin font.
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5sum: 2b24c89d8cffe44bddec1255f0f5a316
-SHA1sum: 58152644ffb5b511aa7969f480f491af10a52246
-SHA256sum: 1728049e78ff5b3afa83fd0f6680db39a4d755da684f059aeb2157538961ec30
+MD5: 2b24c89d8cffe44bddec1255f0f5a316
+SHA1: 58152644ffb5b511aa7969f480f491af10a52246
+SHA256: 1728049e78ff5b3afa83fd0f6680db39a4d755da684f059aeb2157538961ec30
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.aurora
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.aurora-native
@@ -24,9 +24,9 @@ Description: A Samsung Galaxy S9 lockscreen clock widget for your iDevice locksc
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5sum: cd54709ac67535e8b35cdce714244a1a
-SHA1sum: f32b45ab85f0bbb1ca5c1d319140d97419273a53
-SHA256sum: 444ae889bb10d19b9ec78333e37c4e18384b69345735065eb5b6a4c4c807b0b9
+MD5: cd54709ac67535e8b35cdce714244a1a
+SHA1: f32b45ab85f0bbb1ca5c1d319140d97419273a53
+SHA256: 444ae889bb10d19b9ec78333e37c4e18384b69345735065eb5b6a4c4c807b0b9
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.galaxys9lsclock
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.galaxys9lsclock-native
@@ -41,9 +41,9 @@ Description: LS Digital Recreate is a recreated version of a widget called LS Di
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5sum: bd1b8bf2fd0c3a6077fb17be1b7353ea
-SHA1sum: c5a6a7e19d989d0c2ba9a8cd785f21ebc40e0a80
-SHA256sum: 0ec43f2a7b13cc704817a1bd5e1d9afb5de49008097f547fef5dd4ad7227df99
+MD5: bd1b8bf2fd0c3a6077fb17be1b7353ea
+SHA1: c5a6a7e19d989d0c2ba9a8cd785f21ebc40e0a80
+SHA256: 0ec43f2a7b13cc704817a1bd5e1d9afb5de49008097f547fef5dd4ad7227df99
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalrecreate
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.lsdigitalrecreate-native
@@ -58,9 +58,9 @@ Description: Aller Clock is a simple clock widget for your lockscreen it gives y
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5sum: f86d79681435fc501837998cf2d9d30c
-SHA1sum: 38172d50d088ca29747c10f62b833f9c2d1edb14
-SHA256sum: dddf0e0146611848c26e0bc8eb91a48edfd388f758685dc0b678a6d28b7deab5
+MD5: f86d79681435fc501837998cf2d9d30c
+SHA1: 38172d50d088ca29747c10f62b833f9c2d1edb14
+SHA256: dddf0e0146611848c26e0bc8eb91a48edfd388f758685dc0b678a6d28b7deab5
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.allerclock
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.allerclock-native
@@ -75,9 +75,9 @@ Description: Clean Clock and Date brings you a clean clock and date display on y
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5sum: ea81c51385f0e7319221decd7976733e
-SHA1sum: c9a03093548cf3d22de128b31af78d903f784280
-SHA256sum: 33c52d82dbfaa708013c199ad4d351693f8c2ddf3e263fe11bca2500954be1b2
+MD5: ea81c51385f0e7319221decd7976733e
+SHA1: c9a03093548cf3d22de128b31af78d903f784280
+SHA256: 33c52d82dbfaa708013c199ad4d351693f8c2ddf3e263fe11bca2500954be1b2
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.cleanclockanddate
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.cleanclockanddate-native
@@ -92,9 +92,9 @@ Description: LS Digital Clock With Day gives you a cool looking clock and date d
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5sum: f0db60eeed239dbcc94d00a4990a78fa
-SHA1sum: f1fa012210d0f1937f6bb4b2b503dcd38df84eb3
-SHA256sum: 9b55065509cfd926ec1e75fcca18ffbd3e6f22ae5c679d7937556feb12eb7b03
+MD5: f0db60eeed239dbcc94d00a4990a78fa
+SHA1: f1fa012210d0f1937f6bb4b2b503dcd38df84eb3
+SHA256: 9b55065509cfd926ec1e75fcca18ffbd3e6f22ae5c679d7937556feb12eb7b03
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclockwithday
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.lsdigitalclockwithday-native
@@ -109,9 +109,9 @@ Description: LS Digital Clock gives you a cool looking clock and date display on
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5sum: 37f036828909b270b32f087ab4875bb5
-SHA1sum: 010e3e2bfb3ff36308580a2c68eb396bead3f633
-SHA256sum: 82c3af0965670f1491aef91aceb49d82ddeddedbd8f77695139d0c5b1c6274df
+MD5: 37f036828909b270b32f087ab4875bb5
+SHA1: 010e3e2bfb3ff36308580a2c68eb396bead3f633
+SHA256: 82c3af0965670f1491aef91aceb49d82ddeddedbd8f77695139d0c5b1c6274df
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclock
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.lsdigitalclock-native
