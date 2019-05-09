@@ -1,72 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://brianleek.me/projects.html</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/videos.html</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/cydia://url/https://cydia.saurik.com/api/share#?source=http://brianleek.github.io/repo</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/projects/Sileo-Native-Depiction-Generator</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/mybb/themes/classicblue.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/widgets/galaxys9lsclock.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/description.html?id=me.brianleek.galaxys9lsclock</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/mybb/plugins/blockbannedprofiles.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/widgets/aurora.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/description.html?id=me.brianleek.aurora</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/widgets/allerclock.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/description.html?id=me.brianleek.allerclock</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/widgets/cleanclockanddate.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/description.html?id=me.brianleek.cleanclockanddate</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/widgets/lsdigitalrecreate.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalrecreate</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/widgets/lsdigitalclock.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclock</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/images/widgets/lsdigitalclockwithday.jpg</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclockwithday</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/cydia://url/https://cydia.saurik.com/api/share#?source=https://brianleek.me/repo</loc>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://brianleek.me/repo/packagepage/index.html</loc>
+  <priority>0.1</priority>
+</url>
 <url>
   <loc>https://brianleek.me/</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>1.00</priority>
+  <priority>0.1</priority>
 </url>
 <url>
-  <loc>https://brianleek.me/projects.html</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://brianleek.me/repo/</loc>
+  <priority>0.1</priority>
 </url>
-<url>
-  <loc>https://brianleek.me/videos.html</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.galaxys9lsclock</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.aurora</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.allerclock</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.cleanclockanddate</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalrecreate</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclock</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/description.html?id=me.brianleek.lsdigitalclockwithday</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/packagepage/index.html</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://brianleek.me/repo/</loc>
-  <lastmod>2019-04-04T04:15:10+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
 </urlset>
