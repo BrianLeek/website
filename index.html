@@ -1,164 +1,156 @@
-<!DOCTYPE HTML>
-<!--
-	Photon by @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
-	<head>
-		<title>Homepage | Brian Leek's Website</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="Welcome to Brian Leek's website! Here you can find my Cydia repo, latest projects, videos and more!">
-		<meta name="keywords" content="Brian Leek, Precutting, YouTube, Videos, Projects, HTML, JS, PHP, Python, IOS, MyBB">
-		<meta name="author" content="Brian Leek">
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124954151-5"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
+<head>
+	<title>Brian Leek's Website</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Welcome to Brian Leek's personal website! Here you can find some information about me, projects I developed, contact me if needed, and more!">
+	<meta name="keywords" content="Brian Leek, Precutting, Development, Developer, YouTube, Gaming, MyBB, PHP, HTML, CSS, Python">
+	<meta name="author" content="Brian Leek">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	
+	<link rel="stylesheet" href="css/forkawesome/css/fork-awesome.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="scripts/bootstrap.bundle.min.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124954151-5"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-			gtag('config', 'UA-124954151-5');
-		</script>
+		gtag('config', 'UA-124954151-5');
+	</script>
+</head>
+<body>
 
-	</head>
-	<body class="is-preload">
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+    <a href="/" class="navbar-brand">Brian Leek</a>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+		<span class="navbar-toggler-icon"></span>
+    </button>
 
-		<!-- Header -->
-			<section id="header">
-				<div class="inner">
-					<span class="icon major fa-user-circle "></span>
-					<h1>Hi, I'm <strong>Brian</strong>.</h1>
-					<p>I do a lot of things like develop widgets for IOS,<br />
-					code a little in Python, help the MyBB forum<br />
-					community, play video games, and YouTube.</p>
-					<ul class="actions special">
-						<li><a href="#two" class="button scrolly">Discover</a></li>
-						<li><a href="/projects.html" class="button scrolly">Projects</a></li>
-						<li><a href="/videos.html" class="button scrolly">Videos</a></li>
-						<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://brianleek.github.io/repo" class="button scrolly">Add Repo</a></li>
-					</ul>
-				</div>
-			</section>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+		
+		<div class="navbar-nav">
+			<a class="nav-link" href="/">Home</a>
+			<a class="nav-link" href="/projects">Projects</a>
+			<a class="nav-link" href="/vidoes">Videos</a>
+			<a class="nav-link" href="mailto:brianleek2016@gmail.com">Contact</a>
+			
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					More
+				</a>
+				
+			<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown" style="background:#f8f9fa !important;">
+				<a class="dropdown-item" href="/repo" style="padding:0;padding-left: 7px;">APT Repo</a>
+				<div class="dropdown-divider"></div>
+				<a class="dropdown-item" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://brianleek.me/repo" style="padding:0;padding-left: 7px;">Add Repo</a>
+				<div class="dropdown-divider"></div>
+				<a class="dropdown-item" href="https://paypal.me/BrianLeek1" style="padding:0;padding-left: 7px;">Donate</a>
+			</div>
+			</li>
+    </div>
+</nav>
 
-			<!-- <section id="one" class="main style1">
-				<div class="container">
-					<div class="row gtr-150">
-						<div class="col-6 col-12-medium">
-							<header class="major">
-								<h2> </h2>
-							</header>
-							<p> </p>
-						</div>
-						<div class="col-6 col-12-medium imp-medium">
-							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
-						</div>
+<div class="top-header" style="background-image: url(images/header-bg.jpg);">
+	<div class="container">
+		<h1>Welcome!</h1>
+		<p>Here you can find some information about me, projects I developed, contact me if needed, and more!</p>
+	</div>
+</div>
+
+<div class="container">
+	<div class="card" style="margin-top:15px;padding-left:10px;padding-right:10px;">
+		<div class="card-content">
+			<p><span class="name">Brian Leek</span>
+			<br />
+			<span class="location">Aurora, CO</span>
+			
+			<span class="social-links">
+                <a href="https://www.facebook.com/brian.leek.5074"><i id="social-fb" class="fa fa-facebook fa-fw social"></i></a>
+	            <a href="https://twitter.com/Precutting"><i id="social-tw" class="fa fa-twitter fa-fw social"></i></a>
+	            <a href="https://discordapp.com/users/344626066780061707i id="social-gp" class="fa fa-discord fa-fw social"></i></a>
+	            <a href="mailto:brianleek2016@gmail.com"><i id="social-em" class="fa fa-envelope fa-fw social"></i></a>
+			</span></p>
+			
+			<hr>
+			<h1 class="title" align="center">About Me</h1>
+			<p>I work with HTML, CSS, Python, and with the <a href="https://mybb.com/" rel="nofollow">MyBB</a> forum software. I have interest in pretty much anything that is tech related it could be coding, helping someone with tech, repairing and setting up phones and computers, managing websites mostly forums, and anything else.
+			<br />
+			<br />
+			I first got into web development when I first discovered it when I was around the age of 12 or so and ever since then I been interested in it. The first website I ever created around that time was a basic HTML page with not much CSS and I remember showing it off because I was impressed I put something so little and simple together at the time. Fast fowered a few years and I got into forum softwares and started playing around with a lot of the free ones just setting up random forums and seeing how it all worked but one day I came across MyBB which is another open source forum software but I was interested in it because it was easy to use and setup. Not to long after I started broswing all the plugins and themes they had for it. Then I got into creating themes myself most of my work was never finished of lost in someway but I did release a theme called <a href="https://community.mybb.com/mods.php?action=view&pid=1119">Classic Blue</a> which is a old theme that was used on a popular gaming forum back in 2011 and have done some private work since them. Now I just mostly provide support for users using the the forum software to give back to the community.
+			<br />
+			<br />
+			I got into Python not to long ago and don't know to much about it at this time but I find it to be a simple and easy programing language and plan on expanding my knowlage on it in the future but in the meantime I created my first program in Python which is called <a href="https://github.com/BrianLeek/Sileo-Native-Depiction-Generator">Sileo Native Depiction Generator</a> and all is does it take users input and adds it to a template they select and outputs that file then the user can use it as a native depiction file for the <a href="https://getsileo.app/" rel="nofollow">Sileo</a> application.
+			<br />
+			<br />
+			I also got into creating widgets for the IOS jailbreak community that can be used with <a href="https://incendo.ws/documentation/xenhtml/" rel="nofollow">XenHTML</a> on a jailbroken iDevice. All a widget is just CSS, HTML, and a little javascript. I do have the plans to develop more widgets in the future. Most of my widgets I create are and will be free and are open source on my <a href="https://github.com/BrianLeek">GitHub</a> if you want to take a look.</p>
+			<br />
+			<hr />
+			<h1 class="title" align="center">Top 3 Projects</h1>
+			
+			<div class="row">
+			    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					<div class="box-part text-center">  
+						<a href="https://github.com/BrianLeek/Sileo-Native-Depiction-Generator">
+							<div class="project-title">
+								<p><strong>Sileo Native Depiction Generator</strong></p>
+							</div>
+							
+							<div class="text">
+								<span>Sileo Native Depiction Generator is a simple to use script created in Python that is used to generate native depiction files to use for the Sileo application.</span>
+							</div> 
+						</a>
 					</div>
 				</div>
-			</section> -->
-
-		<!-- Two -->
-			<section id="two" class="main style2">
-				<div class="container">
-					<div class="row gtr-150">
-						<div class="col-6 col-12-medium">
-							<ul class="major-icons">
-								<li><span class="icon style1 major fa-code"></span></li>
-								<li><span class="icon style2 major fa-apple"></span></li>
-								<li><span class="icon style3 major fa-gamepad"></span></li>
-								<li><span class="icon style4 major fa-youtube"></span></li>
-							</ul>
-						</div>
-						<div class="col-6 col-12-medium">
-							<header class="major">
-								<h2>My Hobbies</h2>
-							</header>
-							<p>In my free time I enjoy coding mostly in HTML and Python. I use HTML to develop widgets for the IOS jailbreak community and I use Python to make random and sometimes simple scripts/programs when I feel like it.</p>
-							<p>I like to play video games in my free time the games I play most of the time is Call of Duty but I also enjoy playing Grand Theft Auto, Guitar Hero, and battle royale games. I also enjoy gaming on older consoles like the Playstation 2 and Nintendo 64.</p>
-							<p>I also like to upload videos on YouTube the content I upload is mostly Call of Duty related or some other game if I feel like it.</p>
-						</div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					<div class="box-part text-center">  
+						<a href="https://community.mybb.com/mods.php?action=view&pid=1119">
+							<div class="project-title">
+								<p><strong>Classic Blue</strong></p>
+							</div>
+							
+							<div class="text">
+								<span>Classic Blue is remake of a old theme TheTechGame.com used back in 2011 for MyBB. This theme is a nice white and blue theme for almost any type of forum.<span>
+							</div> 
+						</a>
 					</div>
 				</div>
-			</section>
-
-		<!-- Three -->
-			<section id="three" class="main style1 special">
-				<div class="container">
-					<header class="major">
-						<h2>Top Projects</h2>
-					</header>
-					<p>Find my top 3 favorite projects of mine here.</p>
-					<div class="row gtr-150">
-						<div class="col-4 col-12-medium">
-							<span class="image fit"><img src="images/pic02.jpg" alt="" height="184" /></span>
-							<h3>Native Depiction Generator</h3>
-							<p>Native Depiction Generator is used to create native depiction files to use for the Sileo application.</p>
-							<ul class="actions special">
-								<li><a href="/projects/Sileo-Native-Depiction-Generator" class="button">More Info</a></li>
-								<li><a href="https://github.com/BrianLeek/Sileo-Native-Depiction-Generator" class="button">GitHub</a></li>
-							</ul>
-							<ul class="tags">
-								<li><a href="#" class="tag">Python</a></li>
-								<li><a href="#" class="tag">Sileo</a></li>
-								<li><a href="#" class="tag">Native Depictions</a></li>
-							</ul>
-						</div>
-						<div class="col-4 col-12-medium">
-							<span class="image fit"><a href="images/mybb/themes/classicblue.jpg"><img src="images/mybb/themes/classicblue.jpg" alt="Classic Blue Pewview" height="184"/></a></span>
-							<h3>Classic Blue</h3>
-							<p>Classic Blue is remake of a old theme TheTechGame.com used back in 2011. This theme is a nice white and blue theme for almost any type of forum.</p>
-							<ul class="actions special">
-								<li><a href="https://community.mybb.com/mods.php?action=view&pid=1119" class="button">MyBB</a></li>
-							</ul>
-							<ul class="tags">
-								<li><a href="#" class="tag">MyBB</a></li>
-								<li><a href="#" class="tag">Theme</a></li>
-								<li><a href="#" class="tag">PHP</a></li>
-							</ul>
-						</div>
-						<div class="col-4 col-12-medium">
-							<span class="image fit"><a href="images/widgets/galaxys9lsclock.jpg"><img src="images/widgets/galaxys9lsclock.jpg" alt="Samsung Galaxy S9 LS Clock Preview" /></a></span>
-							<h3>Samsung Galaxy S9 LS Clock</h3>
-							<p>This widget brings the Samsung Galaxy S9 lockscreen clock to your Apple iDevice. Must be jailbroken.</p>
-							<ul class="actions special">
-								<li><a href="/repo/description.html?id=me.brianleek.galaxys9lsclock" class="button">Repo</a></li>
-								<li><a href="https://github.com/BrianLeek/IOS-Widget-Samsung-Galaxy-S9-LS-Clock" class="button">GitHub</a></li>
-							</ul>
-							<ul class="tags">
-								<li><a href="#" class="tag">HTML</a></li>
-								<li><a href="#" class="tag">Widget</a></li>
-								<li><a href="#" class="tag">XenHTML</a></li>
-							</ul>
-						</div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+					<div class="box-part text-center">  
+						<a href="https://github.com/BrianLeek/IOS-Widget-Aurora">
+							<div class="project-title">
+								<p><strong>Aurora</strong></p>
+							</div>
+							
+							<div class="text">
+								<span>Aurora is a minimalistic lockscreen widget using a thin font. To use this widget you will need to have XenHTML installed on your jailbroken iDevice.<span>
+							</div> 
+						</a>
 					</div>
 				</div>
-				<center><a href="projects.html" class="button">View All Projects</a></li></center>
-			</section>
+				
+			</div>	
+			
+			<center><a class="btn btn-info btn-md" href="/projects">View All Projects</a></center>
+			</div>
+		</div>
+	</div>
+</div>
 
-		<!-- Footer -->
-			<section id="footer">
-				<ul class="icons">
-					<li><a href="https://twitter.com/Precutting" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="https://www.facebook.com/brian.leek.5074" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="https://www.youtube.com/channel/UC6uRwMxyk9KK3RMzCMrducg" class="icon alt fa-youtube-play"><span class="label">YouTube</span></a></li>
-					<li><a href="https://github.com/BrianLeek" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-					<li><a href="https://paypal.me/BrianLeek1" class="icon alt fa-paypal"><span class="label">Donate</span></a></li>
-					<li><a href="mailto:brianleek2016@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
-				</ul>
-				<ul class="copyright">
-					<li>&copy; Brian Leek</li><li>Design By: <a rel="nofollow" href="http://html5up.net">HTML5 UP</a></li>
-				</ul>
-			</section>
+<div class="footer-bottom">
+	<div class="container">
+		<div class="col-xs-12">
+			<div class="copyright">
+				Copyright © Brian Leek. All rights reserved.
+			</div>
+		</div>
+	</div>
+</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
+</body>
 </html>

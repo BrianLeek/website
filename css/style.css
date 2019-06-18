@@ -1,0 +1,239 @@
+.container {
+    width: 100%
+}
+
+.title {
+    color: #363636;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.sub-title {
+    line-height: 12px;
+}
+
+
+.name {
+    font-size: 1.5rem;
+}
+
+location {
+    line-height: 12px;
+}
+
+.top-header {
+    background-color: #5fb0e4;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+    font-size: 16px;
+    margin-top: -15px;
+    min-height: 150px;
+    padding: 15px;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, .15)
+}
+
+.top-header a {
+    color: #76B7E8
+}
+
+.top-header a:hover {
+    color: #a2d5e8
+}
+
+.top-header h1 {
+    font-size: 38px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.project-title {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+
+.box{
+    padding: 60px 0px;
+}
+
+.box-part{
+    background: #FFF;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0;
+    margin: 15px 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.box-part a {
+    color: #000;
+}
+
+.box-part a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.social-links {
+    float: right;
+    font-size: 1.8rem;
+    margin-top: -35px;
+}
+
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+
+ .social {
+     -webkit-transform: scale(0.8);
+     /* Browser Variations: */
+     
+     -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+ }
+ 
+ #social-fb:hover {
+     color: #3B5998;
+ }
+ #social-tw:hover {
+     color: #4099FF;
+ }
+ #social-gp:hover {
+     color: #d34836;
+ }
+ #social-em:hover {
+     color: #f39c12;
+ }
+
+.embed-container { \
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0; overflow: hidden;
+    max-width: 100%; 
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed { 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; 
+}
+
+.video-list-thumbs{}
+.video-list-thumbs > li{
+    margin-bottom:12px;
+    margin-top: 10px;
+}
+
+.video-list-thumbs > li:last-child{}
+.video-list-thumbs > li > a{
+	display:block;
+	position:relative;
+	color: #000;
+	padding: 8px;
+	border-radius:3px
+    transition:all 500ms ease-in-out;
+    border-radius:4px
+}
+
+.video-list-thumbs > li > a:hover{
+	box-shadow:0 2px 5px rgba(0,0,0,.3);
+	text-decoration:none
+}
+
+.video-list-thumbs h2{
+	bottom: 0;
+	font-size: 14px;
+	height: 33px;
+	margin: 8px 0 0;
+}
+
+.video-list-thumbs .glyphicon-play-circle{
+    font-size: 60px;
+    opacity: 0.6;
+    position: absolute;
+    right: 39%;
+    top: 31%;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+    transition:all 500ms ease-in-out;
+}
+
+.video-list-thumbs > li > a:hover .glyphicon-play-circle{
+	color:#fff;
+	opacity:1;
+	text-shadow:0 1px 3px rgba(0,0,0,.8);
+}
+
+.video-list-thumbs .duration{
+	background-color: rgba(0, 0, 0, 0.4);
+	border-radius: 2px;
+	color: #fff;
+	font-size: 11px;
+	font-weight: bold;
+	left: 12px;
+	line-height: 13px;
+	padding: 2px 3px 1px;
+	position: absolute;
+	top: 12px;
+    transition:all 500ms ease;
+}
+
+.video-list-thumbs > li > a:hover .duration{
+	background-color:#000;
+}
+
+@media (min-width:320px) and (max-width: 480px) { 
+    .video-list-thumbs .glyphicon-play-circle {
+        font-size: 35px;
+        right: 36%;
+        top: 27%;
+    }
+    .video-list-thumbs h2 {
+        bottom: 0;
+        font-size: 12px;
+	height: 22px;
+	margin: 8px 0 0;
+    }
+}
+
+.footer-bottom {
+    background-color: #000;
+    margin-top: 10px;
+    min-height: 30px;
+    width: 100%;
+}
+
+.copyright {
+    text-align: center;
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+
+@media (min-width:992px) {
+    .desktop-hide {
+    	display: none;
+	visibility: hidden;
+    }
+}
+
+@media (max-width: 991px) {
+    .mobile-hide {
+    	display: none;
+	visibility: hidden;
+    }
+}
