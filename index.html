@@ -21,6 +21,12 @@
 
 		gtag('config', 'UA-124954151-5');
 	</script>
+	
+	<script>
+		$(document).ready(function(){
+			$('[data-toggle="tooltip"]').tooltip();   
+		});
+	</script>
 </head>
 <body>
 
@@ -68,10 +74,11 @@
 			<span class="location">Aurora, CO</span>
 			
 			<span class="social-links">
-                <a href="https://www.facebook.com/brian.leek.5074"><i id="social-fb" class="fa fa-facebook fa-fw social"></i></a>
-	            <a href="https://twitter.com/Precutting"><i id="social-tw" class="fa fa-twitter fa-fw social"></i></a>
-	            <a href="https://discordapp.com/users/344626066780061707i id="social-gp" class="fa fa-discord fa-fw social"></i></a>
-	            <a href="mailto:brianleek2016@gmail.com"><i id="social-em" class="fa fa-envelope fa-fw social"></i></a>
+                <a href="https://www.facebook.com/brian.leek.5074" data-toggle="tooltip" title="Facebook"><i id="social-fb" class="fa fa-facebook fa-fw social"></i></a>
+	            <a href="https://twitter.com/Precutting" data-toggle="tooltip" title="Twitter"><i id="social-tw" class="fa fa-twitter fa-fw social"></i></a>
+				<a href="https://www.youtube.com/channel/UC6uRwMxyk9KK3RMzCMrducg?view_as=subscriber" data-toggle="tooltip" title="YouTube"><i id="social-gp" class="fa fa-youtube fa-fw social"></i></a>
+	            <a href="https://discordapp.com/users/344626066780061707i" data-toggle="tooltip" title="Discord"><i id="social-gp" class="fa fa-discord fa-fw social"></i></a>
+	            <a href="mailto:brianleek2016@gmail.com" data-toggle="tooltip" title="Email"><i id="social-em" class="fa fa-envelope fa-fw social"></i></a>
 			</span></p>			
 			<hr />
 			<h1 class="title" align="center">About Me</h1>
