@@ -1,7 +1,7 @@
 Package: me.brianleek.aurora
 Name: Aurora
-Version: 1.0
-Size: 547038
+Version: 1.1
+Size: 75398
 Architecture: iphoneos-arm
 Description: A minimalistic LS widget using a thin font.
 Maintainer: Brian Leek <brianleek2016@gmail.com>

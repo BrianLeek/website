@@ -50,12 +50,12 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.1",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Released",
-          "text": "4/3/2019",
+          "text": "7/27/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -87,6 +87,22 @@
     {
       "tabname": "Changelog",
       "views": [
+		{
+          "title": "Version 1.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added weather and battery percentage.\t\n\u2022 Added customization settings.",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 7/27/2020</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
 		{
           "title": "Version 1.0",
           "useBoldText": true,
