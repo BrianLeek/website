@@ -1,15 +1,16 @@
 Package: me.brianleek.aurora
 Name: Aurora
-Version: 1.1
-Size: 75398
+Version: 1.2
+Size: 43716
 Architecture: iphoneos-arm
-Description: A minimalistic LS widget using a thin font.
+Description: A minimalistic LS widget using a thin font. Requires XenInfo.
+Depends: com.junesiphone.xeninfo
 Maintainer: Brian Leek <brianleek2016@gmail.com>
 Author: Brian Leek <brianleek2016@gmail.com>
 Section: Widgets
-MD5: 2b24c89d8cffe44bddec1255f0f5a316
-SHA1: 58152644ffb5b511aa7969f480f491af10a52246
-SHA256: 1728049e78ff5b3afa83fd0f6680db39a4d755da684f059aeb2157538961ec30
+MD5: 94720c10045264164b1024dbbc2b4741
+SHA1: 1b3eb7cac61343bb682709e0c834c9aca472063b
+SHA256: 1cc07916c6e22f5a4380f8d73d3564e0b0938ac8bf65d81fb4172477b894f0be
 Homepage: https://brianleek.me/
 Depiction: https://brianleek.me/repo/description.html?id=me.brianleek.aurora
 SileoDepiction: https://brianleek.me/repo/packageInfo/native-depictions/me.brianleek.aurora-native
