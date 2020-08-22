@@ -37,7 +37,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "A minimalistic LS widget using a thin font.",
+          "markdown": "A minimalistic LS widget using a thin font. Requires XenHTML",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -87,6 +87,22 @@
     {
       "tabname": "Changelog",
       "views": [
+		{
+          "title": "Version 1.2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed text alignment.\t\n\u2022 Added more customizable options.",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/2/2020</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
 		{
           "title": "Version 1.1",
           "useBoldText": true,
